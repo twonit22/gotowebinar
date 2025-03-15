@@ -23,7 +23,7 @@ The app allows users to **create, update, delete, and view webinars** using the 
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-repo/yii2-webinar-app.git
+   git clone https://github.com/twonit22/gotowebinar
    cd webinar-app
    ```
 2. **Install dependencies**  
